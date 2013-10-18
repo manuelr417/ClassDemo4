@@ -21,7 +21,7 @@ and provide the location of the directory for the project.
 <h2>Running:</h2>
 ClassDemo4 is a mobile web app, hence you need a web server to serve the files.
 You will also need to run the server. For this, look in	the companion project
-<a href="https://github.com/manuelr417/ClassDemo4Srv.git" >ClassDemp3Srv</a>.
+<a href="https://github.com/manuelr417/ClassDemo4Srv.git" >ClassDemp4Srv</a>.
 
 You can use Apache2 to run ClassDemo4. Check the web for instuctions on how to set it up on your platform. 
 You will need to put the project directory into the www directory 
