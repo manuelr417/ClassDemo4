@@ -1,4 +1,4 @@
-<h1>Class Demo3</h1>
+<h1>Class Demo4</h1>
 This project shows a simple jQuery Mobile App that interects with  
 a server. The content of the list of cars is read from a Node.js server
 using REST operations. The content of the list is dynamically loaded 
